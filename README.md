@@ -31,7 +31,9 @@ pip install opencv-python
 # Exécutez le script :
 
 ```bash
-python edge_detector.py
+python edge_detector.py```
+
+```bash
 Exemple
 css
 Copy code
